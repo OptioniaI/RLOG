@@ -1,4 +1,4 @@
-local Staff = loadstring(game:HttpGet("https://raw.githubusercontent.com/OptioniaI/ADIDS/main/IDs"))();
+local Staff = loadstring(game:HttpGet("https://raw.githubusercontent.com/OptioniaI/RLOG/main/PERM.lua"))();
 
 local NotifyLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/Dynissimo/main/Scripts/AkaliNotif.lua"))();
 local Notify = NotifyLibrary.Notify
