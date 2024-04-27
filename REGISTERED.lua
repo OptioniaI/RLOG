@@ -1,4 +1,5 @@
 return {
     "Krampus-Fingerprint", "Codex-Fingerprint",
-    "Arceus-Fingerprint", "Fingerprint"
+    "Arceus-Fingerprint", "Vega-Fingerprint",
+    "Fingerprint"
 }
