@@ -1,7 +1,7 @@
 return {
-    "Krampus-Fingerprint", "Codex-Fingerprint",
-    "Arceus-Fingerprint", "Vega-Fingerprint",
+    "Codex-Fingerprint", "Arceus-Fingerprint",
     "Delta-Fingerprint", "Wave-Fingerprint",
     "Solara-Fingerprint", "Macsploit-Fingerprint",
+    "Swift-Fingerprint", "Xeno-Fingerprint",
     "Fingerprint"
 }
