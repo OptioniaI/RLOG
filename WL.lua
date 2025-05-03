@@ -9,6 +9,11 @@ return {
         User = "765706304656113664",
         Ping = "@yourscoper"
     },
+    ["B34EFAB31C210623D0BDC69A73AC399CDBDD5312C5CA6D9AC6C00708C1ADC3C2"] = {
+        Name = "corpsee",
+        User = "1292761130707718150",
+        Ping = "<@1292761130707718150>"
+    },
     ["10c8705239cc18a4"] = {
         Name = "nielzinn",
         User = "1341838398092218398",
@@ -43,11 +48,6 @@ return {
         Name = "prochall",
         User = "1180866935018225666",
         Ping = "<@1180866935018225666>"
-    },
-    [""] = {
-        Name = "",
-        User = "",
-        Ping = "<@>"
     },
     [""] = {
         Name = "",
