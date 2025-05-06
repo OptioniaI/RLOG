@@ -3,5 +3,6 @@ return {
     "Delta-Fingerprint", "Wave-Fingerprint",
     "Solara-Fingerprint", "Macsploit-Fingerprint",
     "Swift-Fingerprint", "Xeno-Fingerprint",
-    "Vega-Fingerprint", "Fingerprint"
+    "Vega-Fingerprint", "Awp-Fingerprint"",
+    "Fingerprint"
 }
