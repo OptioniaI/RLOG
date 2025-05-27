@@ -1,4 +1,9 @@
 return {
+    ["199027bb13594e79e95fa90d8eed9df9ab9ff480ea5e44b53fc93b5d86ca44bb"] = {
+        Name = "Scoper",
+        User = "765706304656113664",
+        Ping = "@yourscoper"
+    },
     ["498F9155BBC1ED766ED3ED206078F3169250FB55C5BA5CFCC886BAB668E7CDD4"] = {
         Name = "Scoper",
         User = "765706304656113664",
