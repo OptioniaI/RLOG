@@ -9,12 +9,7 @@ return {
         User = "765706304656113664",
         Ping = "@yourscoper"
     },
-    ["498F9155BBC1ED766ED3ED206078F3169250FB55C5BA5CFCC886BAB668E7CDD4"] = {
-        Name = "Scoper",
-        User = "765706304656113664",
-        Ping = "@yourscoper"
-    },
-    ["d69af738-5b38-11ed-965c-806e6f6e6963"] = {
+    ["1d5d0709-b909-11f0-9698-806e6f6e6963"] = {
         Name = "Scoper",
         User = "765706304656113664",
         Ping = "@yourscoper"
